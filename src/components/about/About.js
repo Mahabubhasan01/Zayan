@@ -14,16 +14,16 @@ const About = () => {
               rich experience in web site design and building and customization,
               also I am good at WordPress.
             </p>
-              <a href="" className="btn">Downlaod Resume</a>
+              <a href="" className="btn"> Resume</a>
           </div>
           <div className="about__skills grid">
             <div className="skills__data">
               <div className="skills__titles">
                 <h3 className="skills__name">Front-End</h3>
-                <span className="skills__number developement">80%</span>
+                <span className="skills__number ">80%</span>
               </div>
               <div className="skills__bar">
-                <span className="skills__percentage">
+                <span className="skills__percentage front__end">
 
                 </span>
               </div>
@@ -31,10 +31,10 @@ const About = () => {
             <div className="skills__data">
               <div className="skills__titles">
                 <h3 className="skills__name">Back-End</h3>
-                <span className="skills__number developement">80%</span>
+                <span className="skills__number ">80%</span>
               </div>
               <div className="skills__bar">
-                <span className="skills__percentage">
+                <span className="skills__percentage back__end">
 
                 </span>
               </div>
@@ -42,11 +42,11 @@ const About = () => {
             <div className="skills__data">
               <div className="skills__titles">
                 <h3 className="skills__name">Full Stack</h3>
-                <span className="skills__number developement">80%</span>
+                <span className="skills__number ">80%</span>
               </div>
               <div className="skills__bar">
-                <span className="skills__percentage">
-
+                <span className="skills__percentage full__stack">
+                  
                 </span>
               </div>
             </div>
